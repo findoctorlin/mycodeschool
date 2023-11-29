@@ -1,4 +1,5 @@
 # mycodeschool
-mycodeschool data structure source code from youtube channel"mycodeschool" https://www.youtube.com/channel/UClEEsT7DkdVO_fkrBw0OTrA
+Common data structure(array, linked/double linked list etc.) realisation
+Common algo realisation
 
 all source code in C++ implementation and with some of good extension on basic data structure
